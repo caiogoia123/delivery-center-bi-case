@@ -8,6 +8,8 @@ The goal was to go beyond just building the report: model the data properly (Pow
 
 **[Interactive Figma prototype →](https://www.figma.com/proto/4ybE2H7eK4rPlueljGwlsF/OPERA%C3%87%C3%83O-DO-DELIVERY-CENTER-%E2%80%93-CAIO-PRADO?node-id=1-627&p=f&viewport=-32%2C156%2C0.25&t=SFTmUkSk5FtjkSHh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
 
+**[LinkedIn post →](https://www.linkedin.com/feed/update/urn:li:ugcPost:7484364847732908032/)**
+
 ## Stack
 
 `Power BI Desktop` · `Power Query (M)` · `DAX` · `Figma` (visual design)

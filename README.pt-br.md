@@ -8,6 +8,8 @@ O objetivo foi ir além de só montar o relatório: modelar os dados corretament
 
 **[Protótipo navegável no Figma →](https://www.figma.com/proto/4ybE2H7eK4rPlueljGwlsF/OPERA%C3%87%C3%83O-DO-DELIVERY-CENTER-%E2%80%93-CAIO-PRADO?node-id=1-627&p=f&viewport=-32%2C156%2C0.25&t=SFTmUkSk5FtjkSHh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
 
+**[Post no LinkedIn →](https://www.linkedin.com/feed/update/urn:li:ugcPost:7484364847732908032/)**
+
 ## Stack
 
 `Power BI Desktop` · `Power Query (M)` · `DAX` · `Figma` (design visual)
