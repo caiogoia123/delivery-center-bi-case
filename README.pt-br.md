@@ -38,7 +38,7 @@ Uma camada flutuante acessível de qualquer aba pelo ícone de funil, com **per�
 - Tempo médio de entrega de **156,6 min** contra uma mediana de só **42,2 min** — a média muito acima da mediana já denuncia outliers puxando o número pra cima.
 - Frota é majoritariamente motoboy (**73,1%**) e freelancer (**71,5%**) — a operação depende de mão de obra informal, não de frota própria fixa.
 
-> **Achado no gráfico de concentração:** o Pareto por hub mostra que **Elixir Shopping sozinho responde por 47%** do tempo total de entrega entre os 12 hubs mais lentos. Tirando esse hub da conta, o tempo médio geral cai de **156,6 para ~94,2 min** — ou seja, o problema de entrega não é generalizado, está concentrado num ponto específico da rede. E o tooltip já entrega o drillthrough pra ir direto ao detalhe daquele hub, sem sair da página.
+> **Achado no gráfico de concentração:** o Pareto por hub mostra que **Elixir Shopping sozinho responde por 47%** do tempo total de entrega entre os 12 hubs com maior tempo total de entrega. Tirando esse hub da conta, o tempo médio geral cai de **156,6 para ~94,2 min** — ou seja, o problema de entrega não é generalizado, está concentrado num ponto específico da rede. E o tooltip já entrega o drillthrough pra ir direto ao detalhe daquele hub, sem sair da página.
 
 ### Qualidade e financeiro
 ![Qualidade e financeiro](screenshots/qualidade-financeiro.png)

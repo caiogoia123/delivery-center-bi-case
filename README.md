@@ -38,7 +38,7 @@ A floating layer available from any page via the funnel icon, filtering by **per
 - Average delivery time of **156.6 min** against a median of only **42.2 min** — the mean sitting so far above the median already flags outliers pulling the number up.
 - Fleet is mostly motorbike (**73.1%**) and freelance (**71.5%**) — the operation leans on informal labor, not a fixed owned fleet.
 
-> **Finding in the concentration chart:** the Pareto-by-hub view shows **Elixir Shopping alone accounts for 47%** of total delivery time among the 12 slowest hubs. Remove that hub and the network-wide average falls from **156.6 to ~94.2 min** — the delivery-time problem isn't spread across the network, it's concentrated in one spot. The tooltip already ships a drillthrough straight to that hub's detail, without leaving the page.
+> **Finding in the concentration chart:** the Pareto-by-hub view shows **Elixir Shopping alone accounts for 47%** of total delivery time among the 12 hubs with the highest total delivery time. Remove that hub and the network-wide average falls from **156.6 to ~94.2 min** — the delivery-time problem isn't spread across the network, it's concentrated in one spot. The tooltip already ships a drillthrough straight to that hub's detail, without leaving the page.
 
 ### Quality & finance
 ![Quality and finance](screenshots/qualidade-financeiro.png)
